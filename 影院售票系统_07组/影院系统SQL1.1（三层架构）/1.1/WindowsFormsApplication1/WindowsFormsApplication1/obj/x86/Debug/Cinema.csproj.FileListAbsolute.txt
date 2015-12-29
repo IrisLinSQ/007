@@ -1,0 +1,50 @@
+D:\visual 2010\项目\影院系统SQL\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\Cinema.csprojResolveAssemblyReference.cache
+D:\visual 2010\项目\影院系统SQL\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Cinema.resources
+D:\visual 2010\项目\影院系统SQL\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Login.resources
+D:\visual 2010\项目\影院系统SQL\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.MoiveAdd.resources
+D:\visual 2010\项目\影院系统SQL\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\visual 2010\项目\影院系统SQL\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Register.resources
+D:\visual 2010\项目\影院系统SQL\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ScreensAdd.resources
+D:\visual 2010\项目\影院系统SQL\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\Cinema.csproj.GenerateResource.Cache
+D:\visual 2010\项目\影院系统SQL\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+D:\visual 2010\项目\影院系统SQL\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\visual 2010\项目\影院系统SQL\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\visual 2010\项目\影院系统SQL\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\SqlHelper.dll
+D:\visual 2010\项目\影院系统SQL\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\SqlHelper.pdb
+D:\visual 2010\项目\影院系统SQL\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+D:\visual 2010\项目\影院系统SQL\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ClassUse.dll
+D:\visual 2010\项目\影院系统SQL\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ClassUse.pdb
+D:\visual 2010\项目\影院系统\影院系统SQL\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+D:\visual 2010\项目\影院系统\影院系统SQL\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+D:\visual 2010\项目\影院系统SQL  20111205\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+D:\visual 2010\项目\影院系统SQL  20111205\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+D:\visual 2010\项目\影院系统SQL  20111205\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\visual 2010\项目\影院系统SQL  20111205\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\visual 2010\项目\影院系统SQL  20111205\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ClassUse.dll
+D:\visual 2010\项目\影院系统SQL  20111205\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\SqlHelper.dll
+D:\visual 2010\项目\影院系统SQL  20111205\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ClassUse.pdb
+D:\visual 2010\项目\影院系统SQL  20111205\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\SqlHelper.pdb
+D:\visual 2010\项目\影院系统SQL  20111205\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\Cinema.csprojResolveAssemblyReference.cache
+D:\visual 2010\项目\影院系统SQL  20111205\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Cinema.resources
+D:\visual 2010\项目\影院系统SQL  20111205\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Login.resources
+D:\visual 2010\项目\影院系统SQL  20111205\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.MoiveAdd.resources
+D:\visual 2010\项目\影院系统SQL  20111205\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\visual 2010\项目\影院系统SQL  20111205\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Register.resources
+D:\visual 2010\项目\影院系统SQL  20111205\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ScreensAdd.resources
+D:\visual 2010\项目\影院系统SQL  20111205\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\Cinema.csproj.GenerateResource.Cache
+D:\visual 2010\项目\影院系统SQL1.1\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+D:\visual 2010\项目\影院系统SQL1.1\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+D:\visual 2010\项目\影院系统SQL1.1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\visual 2010\项目\影院系统SQL1.1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\visual 2010\项目\影院系统SQL1.1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ClassUse.dll
+D:\visual 2010\项目\影院系统SQL1.1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\SqlHelper.dll
+D:\visual 2010\项目\影院系统SQL1.1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ClassUse.pdb
+D:\visual 2010\项目\影院系统SQL1.1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\SqlHelper.pdb
+D:\visual 2010\项目\影院系统SQL1.1\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\Cinema.csprojResolveAssemblyReference.cache
+D:\visual 2010\项目\影院系统SQL1.1\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Cinema.resources
+D:\visual 2010\项目\影院系统SQL1.1\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Login.resources
+D:\visual 2010\项目\影院系统SQL1.1\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.MoiveAdd.resources
+D:\visual 2010\项目\影院系统SQL1.1\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\visual 2010\项目\影院系统SQL1.1\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Register.resources
+D:\visual 2010\项目\影院系统SQL1.1\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ScreensAdd.resources
+D:\visual 2010\项目\影院系统SQL1.1\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\Cinema.csproj.GenerateResource.Cache
