@@ -1,0 +1,14 @@
+D:\visual 2010\项目\影院系统SQL\WindowsFormsApplication1\ClassUse\bin\Debug\ClassUse.dll
+D:\visual 2010\项目\影院系统SQL\WindowsFormsApplication1\ClassUse\bin\Debug\ClassUse.pdb
+D:\visual 2010\项目\影院系统SQL\WindowsFormsApplication1\ClassUse\obj\Debug\ClassUse.dll
+D:\visual 2010\项目\影院系统SQL\WindowsFormsApplication1\ClassUse\obj\Debug\ClassUse.pdb
+D:\visual 2010\项目\影院系统SQL1.1\WindowsFormsApplication1\ClassUse\bin\Debug\ClassUse.dll
+D:\visual 2010\项目\影院系统SQL1.1\WindowsFormsApplication1\ClassUse\bin\Debug\ClassUse.pdb
+D:\visual 2010\项目\影院系统SQL1.1\WindowsFormsApplication1\ClassUse\obj\Debug\ClassUse.dll
+D:\visual 2010\项目\影院系统SQL1.1\WindowsFormsApplication1\ClassUse\obj\Debug\ClassUse.pdb
+D:\visual 2010\项目\影院系统SQL1.1\WindowsFormsApplication1\ClassUse\obj\Debug\ClassUse.csprojResolveAssemblyReference.cache
+D:\visual 2010\项目\影院系统SQL1.2\WindowsFormsApplication1\ClassUse\bin\Debug\ClassUse.dll
+D:\visual 2010\项目\影院系统SQL1.2\WindowsFormsApplication1\ClassUse\bin\Debug\ClassUse.pdb
+D:\visual 2010\项目\影院系统SQL1.2\WindowsFormsApplication1\ClassUse\obj\Debug\ClassUse.csprojResolveAssemblyReference.cache
+D:\visual 2010\项目\影院系统SQL1.2\WindowsFormsApplication1\ClassUse\obj\Debug\ClassUse.dll
+D:\visual 2010\项目\影院系统SQL1.2\WindowsFormsApplication1\ClassUse\obj\Debug\ClassUse.pdb
