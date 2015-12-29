@@ -1,0 +1,4 @@
+D:\visual 2010\项目\影院系统SQL\WindowsFormsApplication1\ClassUse\bin\Debug\ClassUse.dll
+D:\visual 2010\项目\影院系统SQL\WindowsFormsApplication1\ClassUse\bin\Debug\ClassUse.pdb
+D:\visual 2010\项目\影院系统SQL\WindowsFormsApplication1\ClassUse\obj\Debug\ClassUse.dll
+D:\visual 2010\项目\影院系统SQL\WindowsFormsApplication1\ClassUse\obj\Debug\ClassUse.pdb
